@@ -1,0 +1,22 @@
+{
+  "name": "node-1",
+  "version": "0.1.1",
+  "description": "\"Just exploring node\"",
+  "main": "./app.js",
+  "scripts": {
+    "node-1": "node app.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tharak-N/node_starter.git"
+  },
+  "keywords": [
+    "gh"
+  ],
+  "author": "Tharak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tharak-N/node_starter/issues"
+  },
+  "homepage": "https://github.com/Tharak-N/node_starter#readme"
+}
